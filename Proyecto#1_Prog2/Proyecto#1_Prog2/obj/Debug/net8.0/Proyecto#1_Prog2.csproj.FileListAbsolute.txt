@@ -1,0 +1,14 @@
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\bin\Debug\net8.0\Proyecto#1_Prog2.exe
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\bin\Debug\net8.0\Proyecto#1_Prog2.deps.json
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\bin\Debug\net8.0\Proyecto#1_Prog2.runtimeconfig.json
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\bin\Debug\net8.0\Proyecto#1_Prog2.dll
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\bin\Debug\net8.0\Proyecto#1_Prog2.pdb
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\obj\Debug\net8.0\Proyecto#1_Prog2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\obj\Debug\net8.0\Proyecto#1_Prog2.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\obj\Debug\net8.0\Proyecto#1_Prog2.AssemblyInfo.cs
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\obj\Debug\net8.0\Proyecto#1_Prog2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\obj\Debug\net8.0\Proyecto#1_Prog2.dll
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\obj\Debug\net8.0\refint\Proyecto#1_Prog2.dll
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\obj\Debug\net8.0\Proyecto#1_Prog2.pdb
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\obj\Debug\net8.0\Proyecto#1_Prog2.genruntimeconfig.cache
+C:\Users\aleja\Desktop\C#test\Proyecto#1_Prog2\Proyecto#1_Prog2\obj\Debug\net8.0\ref\Proyecto#1_Prog2.dll
