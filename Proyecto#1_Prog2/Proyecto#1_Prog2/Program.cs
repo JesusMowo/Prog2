@@ -42,6 +42,9 @@ namespace Proyect
             Libro libro = new ("50 Sombras de grey", "Yo", "Erotica", "1992");
             libro.MostrarInfo();
             Console.WriteLine("");
+            libro.autor = "No se el autor original";
+            libro.MostrarInfo();
+            Console.WriteLine("");
             Revista revista = new ("Dou", "Bananirou", "Variedad", "2025");
             revista.MostrarInfo();
         }
